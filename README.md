@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou Álef Vieira! 👋
 
-<!--
-**alefvieira/alefvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor Full Stack Pleno em aplicações Web, criando soluções com foco em desempenho, organização do código e experiência do usuário. Trabalho principalmente com:
 
-Here are some ideas to get you started:
+- Java
+- PHP
+- JavaScript/TypeScript
+- Python
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias & ferramentas
+
+- Front-end: React, HTML5, CSS3, Bootstrap
+- Back-end: Java, PHP
+- Frameworks: CodeIgniter, Laravel, Node.js
+- Banco de dados: MySQL, NoSQL
+- Versionamento: GitHub, Git, SVN
+
+## Como você pode me encontrar
+
+- Instagram: alefcoutin
+- E-mail: alef_coutin@hotmail.com
+
+## 🚀 O que estou fazendo agora
+- Construindo aplicações web com arquitetura limpa e boas práticas
+- Evoluindo integrações e performance de APIs
+- Aplicando testes e melhorias contínuas no desenvolvimento
+
+Obrigado por visitar! ✨
