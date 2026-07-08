@@ -18,7 +18,7 @@ Sou Desenvolvedor Full Stack Pleno em aplicações Web, criando soluções com f
 
 ## Como você pode me encontrar
 
-- Instagram: [alefcoutin] (https://www.instagram.com/alefcoutin/)
+- Instagram: [Instagram](https://www.instagram.com/alefcoutin/)
 - E-mail: alef_coutin@hotmail.com
 
 ## 🚀 O que estou fazendo agora
